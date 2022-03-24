@@ -29,7 +29,7 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Hydra</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é António Kozan</h1></img>
 
 <!-- <p align="center">
   <a href="https://github.com/seu-usuario">
@@ -66,7 +66,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=hydrasombra&repo=hydrasombra&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=lemillioncorp&repo=lemillioncorp&theme=tokyonight">
     </img>
   </a>
 </p>
