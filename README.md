@@ -21,10 +21,17 @@
    <a href="https://nextjs.org/">
       <img src="https://img.icons8.com/color/72/nextjs.png" alt="nextjs" width="40" height="40"/>
    </a>
-   <a href="firebase.google.com">
+     <a href="firebase.google.com">
       <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="nodejs" width="40" height="40"/>
    </a>
+   <a href="https://flutter.dev/">
+      <img src="https://www.svgrepo.com/show/349363/flutter.svg" alt="flutter" width="40" height="40"/>
+   </a>
+   <a href="https://angular.io/">
+      <img src="https://www.svgrepo.com/show/353396/angular-icon.svg" alt="Angular" width="40" height="40"/>
+   </a>
 
+    
 </p>
 
 <h4 align="center">
