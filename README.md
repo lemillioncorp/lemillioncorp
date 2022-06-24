@@ -15,8 +15,11 @@
        <a href="https://nodejs.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    </a>
-   <a href="https://flutter.dev/">
-      <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="nextjs" width="40" height="40"/>
+     <a href="https://git-scm.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+   </a>
+   <a href="https://nextjs.org/">
+      <img src="https://img.icons8.com/color/72/nextjs.png" alt="nextjs" width="40" height="40"/>
    </a>
    <a href="firebase.google.com">
       <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="nodejs" width="40" height="40"/>
