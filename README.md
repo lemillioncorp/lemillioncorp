@@ -24,9 +24,7 @@
    <a href="firebase.google.com">
       <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="nodejs" width="40" height="40"/>
    </a>
-   <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-   </a>
+
 </p>
 
 <h4 align="center">
