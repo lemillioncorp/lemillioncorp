@@ -1,5 +1,5 @@
 <p align="center">
-    <img class = "img-circle" src="https://avatars.githubusercontent.com/u/70895080?v=4" alt="https://avatars.githubusercontent.com/u/70895080?v=4"/>
+    <img class="img-rounded img-circle" src="https://avatars.githubusercontent.com/u/70895080?v=4" alt="https://avatars.githubusercontent.com/u/70895080?v=4"/>
    </p>
 
   <p align="center">
